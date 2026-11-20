@@ -1,0 +1,18 @@
+{
+  "format": "navi-rag/1",
+  "name": "Navi Chip-Building Toolkit",
+  "description": "Her chip-building toolkit \u2014 the chip cartridge format and the navi_internal runtime API exactly as shipped in Apex v0.6.9 (stamps 2026-11-19.41), a verified worked example, and a stdlib-first Python 3.12 reference, so Navi can author chips fluidly from the shipped truth.",
+  "version": "0.6.9",
+  "documents": [
+    "documents/00-pack-guide.md",
+    "documents/chip-cartridge-format.md",
+    "documents/chip-runtime-api.md",
+    "documents/chip-bridge-surfaces.md",
+    "documents/chip-worked-example.md",
+    "documents/python-core-language.md",
+    "documents/python-stdlib-files-and-data.md",
+    "documents/python-stdlib-process-and-net.md"
+  ],
+  "index": "index.json",
+  "generatedBy": "Apex \u2014 chip-toolkit pack generator (generate.py), from the shipped v0.6.9 tree"
+}
